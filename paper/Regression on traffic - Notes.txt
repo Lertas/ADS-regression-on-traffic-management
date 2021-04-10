@@ -1,0 +1,24 @@
+1. Another method considered to measure the error performance is Regression analysis, an optimal research method for validating the traffic data
+https://ieeexplore.ieee.org/document/8057530
+
+2. This paper outlines a combination of logistic regression with fuzzy logic such that a smart decision to preferred path can be taken 
+   Δεν ειμαι σιγουρος αν μας κανει δηλαδη regression
+https://www.sciencedirect.com/science/article/pii/S1877050918308937   
+
+3. This paper presents an idea of integrating five topological measures and road length to estimate traffic flow based on a multiple regression approach
+https://www.researchgate.net/publication/331690357_A_Multiple_Regression_Approach_for_Traffic_Flow_Estimation
+
+4.This study presents a preliminary exploration in the use of regression analysis for evaluating long-run traffic management system performance.
+https://www.semanticscholar.org/paper/Traffic-Management-System-Performance-Using-Levinson-Chen/3b0a57033ec7bc43dab435245952cc546943371e
+
+5. The paper presents a model for predicting short term traffic flow using structure pattern and regression.
+https://link.springer.com/article/10.1007/s42452-020-2946-2
+
+6, In this thesis work, we give a brief survey of recent researches on road traffic prediction and propose an 
+innovative approach to estimate road traffic flow using regression analysis for the roads of Porto city 
+http://dspace.uiu.ac.bd:8080/bitstream/handle/52243/361/The%20Prediction%20of%20Traffic%20Flow%20with%20Regression%20Analysis.pdf?sequence=1&isAllowed=y
+
+--> apply regression to predict road traffic flow in long-term based on historical traffic data and compare their performance
+
+7. This paper analyzes several regression methods, such as the principal component regression (PCR), partial least square regression (PLSR), and builds models between incident duration and its influence factors.
+https://ascelibrary.org/doi/abs/10.1061/9780784413036.136
