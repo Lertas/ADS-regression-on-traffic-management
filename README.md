@@ -1,4 +1,4 @@
-# Regression-on-traffic-management
+## Regression-on-traffic-management
 "This project is licensed under the terms of the MIT license."
 
 Msc in Data Science 2020-21, Dimokritos. Applied Data Science course.
